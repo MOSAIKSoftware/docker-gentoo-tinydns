@@ -1,5 +1,12 @@
 # Tinydns via Docker
 
+## Building
+
+Clone this repository and issue the following command inside the top directory:
+```sh
+docker build -t mosaiksoftware/gentoo-tinydns .
+```
+
 ## Starting
 
 Start the container and carry out the initial configuration steps:
