@@ -1,5 +1,8 @@
 # Tinydns via Docker
 
+
+TinyDNS Server primarly used for Second Nameserver Instances including VegaDNS admin panel. 
+
 ## Building
 
 Clone this repository and issue the following command inside the top directory:
